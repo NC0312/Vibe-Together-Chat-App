@@ -1,5 +1,37 @@
 Visit this app at:-  https://vibetogether.netlify.app/
 
+This is how the login page of this website looks like:- 
+
+![1](https://github.com/NC0312/Vibe-Together-Chat-App/assets/104648509/e010a1f8-2897-42a9-a3da-cb168da0c27a)
+
+
+After logging in you can have chats and this is how chat interface looks like:-
+
+![3](https://github.com/NC0312/Vibe-Together-Chat-App/assets/104648509/ec4352b4-c733-48b4-b9b9-2ebc8db6190c)
+
+
+This is how typing animation shows up when the other user is typing:- 
+
+![2](https://github.com/NC0312/Vibe-Together-Chat-App/assets/104648509/00932e65-2995-4b81-a5df-0d7b3cbea582)
+
+
+on the top right corner you can view the users inside the particular group or community you are chatting:-
+
+![4](https://github.com/NC0312/Vibe-Together-Chat-App/assets/104648509/93353f5e-aad2-4854-83e0-8f039c4b63d8)
+
+
+Many features like uploadng attachements and modifying text is available:-
+
+![5](https://github.com/NC0312/Vibe-Together-Chat-App/assets/104648509/8ee3942d-e13f-4df4-80eb-9acb26614ec3)
+
+
+this is how uploaded photo shows up and here on the right you can see the uploaded images:-
+
+![6](https://github.com/NC0312/Vibe-Together-Chat-App/assets/104648509/0ef69405-4e15-4046-badc-00c3a6cb335e)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
